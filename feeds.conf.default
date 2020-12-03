@@ -1,4 +1,3 @@
-src-link Nmon https://sourceforge.net/projects/nmon/files/
 src-git lienol https://github.com/Lienol/openwrt-packages
 src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall
 src-git packages https://github.com/coolsnowwolf/packages
