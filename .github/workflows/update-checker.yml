@@ -12,7 +12,7 @@
 name: OpenWRT1900ACS v2
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/M33FT/LEDE_Linksys_WRT1900ACS.git
   REPO_BRANCH: master
 
 on:
