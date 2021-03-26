@@ -21,7 +21,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/hikelin19871112/lede.git
+  REPO_URL: https://github.com/hikelin19871112/lede/tree/master/package/lean
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
@@ -36,7 +36,7 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout
